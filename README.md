@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-Learning%20in%20Progress-blue?style=for-the-badge)
 ![Repo](https://img.shields.io/badge/Repository-Student%20Practice-green?style=for-the-badge)
 
-A structured collection of Java programs I'm building as part of my learning journey in programming and problem solving.
+A structured collection of Java programs I’m building as part of my student learning journey in programming and problem solving.
 
 ## 📌 About This Repository
 
@@ -76,7 +76,7 @@ java-programs-practice/
 
 ## 🤝 Contributions
 
-This is a personal student practice repository, but suggestions and improvements are always welcome.
+This is primarily a personal student practice repository, but suggestions and improvements are welcome.
 
 ---
 
@@ -87,6 +87,20 @@ GitHub: [@Yashwitha-valmiki](https://github.com/Yashwitha-valmiki)
 
 ---
 
+## 🔒 Security & Privacy Note
+
+No secrets, private credentials, or sensitive personal data are intentionally included in this repository.
+
+If you find any security issue, please report it responsibly.
+
+---
+
+## ⚠️ Disclaimer
+
+All code in this repository is created as part of my student learning journey and is intended for educational and practice purposes.
+
+---
+
 ## 📄 License
 
-This project is open for educational and learning purposes.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
