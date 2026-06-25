@@ -1,47 +1,56 @@
-# Java Programs Practice
+# Java Programs Practice ☕
 
-A curated collection of Java practice programs created while learning core programming concepts and problem-solving techniques.
+![Java](https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java)
+![Status](https://img.shields.io/badge/Status-Learning%20in%20Progress-blue?style=for-the-badge)
+![Repo](https://img.shields.io/badge/Repository-Student%20Practice-green?style=for-the-badge)
+
+A structured collection of Java programs I’m building as part of my learning journey in programming and problem solving.
 
 ## 📌 About This Repository
 
-This repository contains Java programs that I am writing as part of my learning journey.  
-The goal is to strengthen my understanding of:
+This repository contains Java practice programs written to improve my understanding of:
 
 - Java syntax and fundamentals
-- Control flow (if/else, loops, switch)
+- Conditional statements and loops
 - Arrays and strings
-- Methods and functions
+- Methods and modular coding
 - Object-Oriented Programming (OOP)
 - Basic data structures and algorithms
+
+---
 
 ## 🛠️ Tech Stack
 
 - **Language:** Java
-- **IDE (optional):** IntelliJ IDEA / Eclipse / VS Code
-- **JDK Version:** Java 8+ (recommended Java 17)
+- **JDK:** Java 8+ (Recommended: Java 17)
+- **Tools/IDE:** IntelliJ IDEA, Eclipse, or VS Code
 
-## 📂 Repository Structure
+---
 
-The programs are organized by topic (or will be organized progressively as I learn).  
-Example structure:
+## 📂 Suggested Repository Structure
 
 ```text
 java-programs-practice/
 ├── basics/
+├── conditionals/
 ├── loops/
 ├── arrays/
 ├── strings/
+├── methods/
 ├── oops/
+├── patterns/
 └── README.md
 ```
 
-## ▶️ How to Run a Java Program
+---
 
-1. Clone this repository:
+## ▶️ How to Run Programs
+
+1. Clone the repository:
    ```bash
    git clone https://github.com/Yashwitha-valmiki/java-programs-practice.git
    ```
-2. Move into the project folder:
+2. Move into the project directory:
    ```bash
    cd java-programs-practice
    ```
@@ -49,22 +58,52 @@ java-programs-practice/
    ```bash
    javac FileName.java
    ```
-4. Run the compiled program:
+4. Run the program:
    ```bash
    java FileName
    ```
 
+---
+
+## 📈 Learning Progress Tracker
+
+| Topic | Status |
+|-------|--------|
+| Basics | ✅ In Progress |
+| Conditionals | ⬜ Planned |
+| Loops | ✅ In Progress |
+| Arrays | ⬜ Planned |
+| Strings | ⬜ Planned |
+| Methods | ⬜ Planned |
+| OOP | ⬜ Planned |
+| Patterns | ⬜ Planned |
+
+> I’ll keep updating this tracker as I complete more programs.
+
+---
+
 ## 🎯 Learning Goals
 
-- Practice Java daily
+- Practice Java consistently
 - Write clean and readable code
-- Build confidence in solving programming problems
-- Prepare for coding interviews and academic projects
+- Improve logical thinking and problem-solving
+- Build a strong base for projects and interviews
+
+---
 
 ## 🤝 Contributions
 
-This is primarily a personal learning repository, but suggestions and improvements are always welcome.
+This is a personal student practice repository, but suggestions and improvements are always welcome.
+
+---
+
+## 👩‍💻 Author
+
+**Yashwitha Valmiki**  
+GitHub: [@Yashwitha-valmiki](https://github.com/Yashwitha-valmiki)
+
+---
 
 ## 📄 License
 
-This project is open for educational use.
+This project is open for educational and learning purposes.
