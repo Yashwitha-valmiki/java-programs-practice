@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-Learning%20in%20Progress-blue?style=for-the-badge)
 ![Repo](https://img.shields.io/badge/Repository-Student%20Practice-green?style=for-the-badge)
 
-A structured collection of Java programs I’m building as part of my learning journey in programming and problem solving.
+A structured collection of Java programs I'm building as part of my learning journey in programming and problem solving.
 
 ## 📌 About This Repository
 
@@ -62,23 +62,6 @@ java-programs-practice/
    ```bash
    java FileName
    ```
-
----
-
-## 📈 Learning Progress Tracker
-
-| Topic | Status |
-|-------|--------|
-| Basics | ✅ In Progress |
-| Conditionals | ⬜ Planned |
-| Loops | ✅ In Progress |
-| Arrays | ⬜ Planned |
-| Strings | ⬜ Planned |
-| Methods | ⬜ Planned |
-| OOP | ⬜ Planned |
-| Patterns | ⬜ Planned |
-
-> I’ll keep updating this tracker as I complete more programs.
 
 ---
 
